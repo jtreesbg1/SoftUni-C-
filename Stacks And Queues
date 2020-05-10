@@ -1,0 +1,42 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Az\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Az\\.nuget\\packages"
+    ]
+  }
+}
+{
+  "runtimeOptions": {
+    "tfm": "netcoreapp3.0",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "3.0.0"
+    }
+  }
+}
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Numbers in reverse order/1.0.0": {
+        "runtime": {
+          "Numbers in reverse order.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Numbers in reverse order/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
+
+
